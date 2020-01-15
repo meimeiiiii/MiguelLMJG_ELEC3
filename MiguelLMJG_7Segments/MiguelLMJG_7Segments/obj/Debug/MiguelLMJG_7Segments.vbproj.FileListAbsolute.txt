@@ -1,0 +1,11 @@
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\bin\Debug\MiguelLMJG_7Segments.exe.config
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\bin\Debug\MiguelLMJG_7Segments.exe
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\bin\Debug\MiguelLMJG_7Segments.pdb
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\bin\Debug\MiguelLMJG_7Segments.xml
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\obj\Debug\MiguelLMJG_7Segments.vbprojAssemblyReference.cache
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\obj\Debug\MiguelLMJG_7Segments.Resources.resources
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\obj\Debug\MiguelLMJG_7Segments.vbproj.GenerateResource.cache
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\obj\Debug\MiguelLMJG_7Segments.exe
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\obj\Debug\MiguelLMJG_7Segments.xml
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\obj\Debug\MiguelLMJG_7Segments.pdb
+C:\Users\Renson Pauline\source\repos\MiguelLMJG_7Segments\MiguelLMJG_7Segments\obj\Debug\MiguelLMJG_7Segments.FormTimer.resources

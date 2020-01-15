@@ -1,0 +1,22 @@
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Documents\School Stuff\Fifth Year\2nd Sem\Electives 3\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Admin\source\repos\MiguelLMJG_Calculator\MiguelLMJG_Calculator\Calculator\obj\Debug\Calculator.pdb
