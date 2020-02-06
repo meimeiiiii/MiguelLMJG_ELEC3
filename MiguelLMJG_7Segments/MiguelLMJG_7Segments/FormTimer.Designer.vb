@@ -193,7 +193,7 @@ Partial Class FormTimer
         '
         'Timer
         '
-        Me.Timer.Interval = 1000
+        Me.Timer.Interval = 800
         '
         'FormTimer
         '
